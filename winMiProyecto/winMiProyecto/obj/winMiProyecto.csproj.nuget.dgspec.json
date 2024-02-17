@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\winMiProyecto\\winMiProyecto\\winMiProyecto.csproj": {}
+    "C:\\David\\git\\DesarrolloDeSistemasI\\DesarrolloDeSistemasI\\winMiProyecto\\winMiProyecto\\winMiProyecto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\winMiProyecto\\winMiProyecto\\winMiProyecto.csproj": {
+    "C:\\David\\git\\DesarrolloDeSistemasI\\DesarrolloDeSistemasI\\winMiProyecto\\winMiProyecto\\winMiProyecto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\winMiProyecto\\winMiProyecto\\winMiProyecto.csproj",
+        "projectUniqueName": "C:\\David\\git\\DesarrolloDeSistemasI\\DesarrolloDeSistemasI\\winMiProyecto\\winMiProyecto\\winMiProyecto.csproj",
         "projectName": "winMiProyecto",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\winMiProyecto\\winMiProyecto\\winMiProyecto.csproj",
+        "projectPath": "C:\\David\\git\\DesarrolloDeSistemasI\\DesarrolloDeSistemasI\\winMiProyecto\\winMiProyecto\\winMiProyecto.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\winMiProyecto\\winMiProyecto\\obj\\",
+        "outputPath": "C:\\David\\git\\DesarrolloDeSistemasI\\DesarrolloDeSistemasI\\winMiProyecto\\winMiProyecto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"

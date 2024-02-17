@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("winMiProyecto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddeb0ed9d94a5253c263c21dcc498e4c2ee29a2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("winMiProyecto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("winMiProyecto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

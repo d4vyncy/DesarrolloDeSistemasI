@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3jgNXdqlWspO8ARO0pDFk8gJqUV3VkS3aIsOpCEbGCyg7+nEGRQmlF0Ntsv3KhvjwTrgcWd0Gj657ZVvWR11aA==",
+  "dgSpecHash": "EY7jEKxV/5+unGtsF8AY46vTn8aouAzuRmZDb/ELlPCKdR9oCScfC2BrCIZg4/nIxaSt+e8N09l+sdjzQo2ilg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\winMiProyecto\\winMiProyecto\\winMiProyecto.csproj",
+  "projectFilePath": "C:\\David\\git\\DesarrolloDeSistemasI\\DesarrolloDeSistemasI\\winMiProyecto\\winMiProyecto\\winMiProyecto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
